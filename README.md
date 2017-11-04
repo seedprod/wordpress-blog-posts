@@ -1,4 +1,3 @@
-# wordpress-blog-posts
-Best WordPress Blog Posts
+#Best WordPress Blog Posts
 
-[WordPress Login](https://www.seedprod.com/wordpress-login/) Shortcuts
+* [WordPress Login](https://www.seedprod.com/wordpress-login/) Shortcuts
